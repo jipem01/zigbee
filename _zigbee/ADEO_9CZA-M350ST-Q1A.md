@@ -7,7 +7,7 @@ category: bulb
 type: bulb
 supports: brightness, colortemp, colorxy
 zigbeemodel: ['LXEK-4']
-compatible: [z2m]
+compatible: [z2m,zha]
 mlink: 
 link: https://www.leroymerlin.fr/v3/p/produits/ampoule-connectee-led-reflecteur-gu10-intensite-couleur-variables-enki-lexman-e1506797832
 link2: 
